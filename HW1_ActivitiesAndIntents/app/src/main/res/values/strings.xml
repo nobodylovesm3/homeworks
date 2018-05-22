@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login Panel</string>
+    <string name="input_your_names">Input your names:</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="years">Years</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="details">Details</string>
+    <string name="forward">Continue</string>
+    <string name="summary">Summary</string>
+    <string name="map_address">Show the address on the map</string>
+</resources>

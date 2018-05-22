@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".DetailsActivity">
+
+    <EditText
+        android:id="@+id/edt_years"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:hint="@string/years"
+        android:inputType="number"
+        android:textColor="@color/red"
+        android:textColorHint="@color/red" />
+
+    <EditText
+        android:id="@+id/edt_address"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:hint="@string/address"
+        android:inputType="textPostalAddress"
+        android:textColor="@color/red"
+        android:textColorHint="@color/red" />
+
+    <EditText
+        android:id="@+id/edt_city"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:hint="@string/city"
+        android:inputType="text"
+        android:textColor="@color/red"
+        android:textColorHint="@color/red" />
+
+    <EditText
+        android:id="@+id/edt_dateOfBirth"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:hint="@string/date_of_birth"
+        android:inputType="date"
+        android:textColor="@color/red"
+        android:textColorHint="@color/red" />
+
+    <Button
+        android:id="@+id/btn_continue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@color/red"
+        android:text="@string/forward"
+        android:textColor="@color/white" />
+</LinearLayout>
