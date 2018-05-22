@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SharedPreferences Demo</string>
+    <string name="login">Login</string>
+    <string name="pass">Pass:</string>
+    <string name="user">User:</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_a_new_user">Create a new user</string>
+    <string name="password">Password:</string>
+    <string name="username">Username:</string>
+    <string name="re_enter_pass">Re-enter pass:</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+</resources>
