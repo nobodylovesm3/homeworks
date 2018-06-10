@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">HW4_ToolbarFragments</string>
+    <string name="title_main">Toolbar and Fragments Demo</string>
+    <string name="additional_information_vratsa">The town of Vratsa is one of the most picturesque cities in in the country. It is nestled in the foothills of "Vrachanska Planina", with the Leva river calmly crossing the town and with fearful rocks overhanging the roofs. The town is only 116km from the Bulgarian capital Sofia.
+
+The area has very diverse and attractive natural features, which together with the recreation opportunities gives the special charm of the Eastern part of the Northwest Bulgaria. On the territory of the State Forestry territory Vratsa are located several protected natural attractions and historical monuments.
+
+The name of the town of Vratsa itself comes from the name of the spectacular gorge Vratsata (the Door) on Leva river.\n</string>
+    <string name="useful_information_vratsa">
+        \n• Mayor: Kalin Kamenov
+        \n• Area (City): 212 km²
+        \n• Elevation:	344 m
+        \n• Population: 60,692
+        \n
+ </string>
+    <string name="more_add_info_vratsa">Major attraction is the National park "Vrachanski Balkan" which includes the biggest part of Vrachanska Planina in order to preserve it\'s unique speleological phenomenon.This is the most cave - rich area around the country - more than 500 caves and Karst precipices. On the park`s territory occurs one of the most beautiful Bulgarian caves - "Ledenika", proclaimed for Natural sight and tourist object with international importance. The cave impress with great sizes, and during the winter grabs the visitor with it`s fine ice decoration, where from come it`s name. </string>
+    <string name="additional_information_sofia">Sofia, the capital of Bulgaria, is the biggest city in the country, the most developed and also the busiest. With a population of over 1.5 million people, together with thousands of businesses, foreign Embassies, branches of international companies and organizations, corporate HQs and public administration buildings, Sofia has the most developed and dynamic property market in Bulgaria.   This is also valid for the rental market, where both high demand and high price levels are observed. Currently the highest rental income and profit for residential properties can be found in Sofia but, understandably, this is also where you will find the highest prices!\n</string>
+    <string name="useful_information_sofia">
+        \n• Mayor: Yordanka Fandakova
+        \n• Area(City): 492 km²
+        \n• Elevation: 500–2,290 m
+        \n• Population: 1,236,047
+    \n</string>
+    <string name="more_add_info_sofia">Properties in Sofia also feature the highest rates of price growth. Over the last two years, the average price of apartments in the centre of the city has increased by 50 to 60% to today’s level of 1000 to 1300 Euro per square meter of floor area, depending upon the location and the condition of the apartment. This price growth is expected to continue with moderate increases of 15 to 20% per year for the next few years, until prices reach the levels for similar properties in other Eastern European capital cities such as: Budapest (Hungary), Prague (Czech Republic) and Warsaw (Poland), where the current price per square meter is 1800 to 2000 Euro.\n</string>
+    <string name="additional_info_montana">The town of Montana is situated at 110 km. north of Sofia and 102 km. southeast of Vidin. The town is located immediately to the Ogosta River and has approx. 55 000 inhabitants. The town is an heir of the Roman fortress settlement Casta ad Montanezium or known also as Montana. The strategic position of the crossroad of important roads determined the position of the Roman town. In III century, it was the most significant town in the province of Dakia under the name of “Ripenziz”. It was destroyed by the Barbarians\n</string>
+    <string name="useful_information_montana">
+        \n• Mayor: Zlatko Zhivkov
+        \n• Area(City): 69.235 km²
+        \n• Elevation: 135 m
+        \n• Population: 89,544
+\n
+    </string>
+    <string name="more_add_info_montana">
+        During the Turkish rule, it was mentioned for first time under the name of “Kultovitsa”, while after the Liberation the settlement was mentioned under the name of “Goliama Kutlovitsa”. Montana was declared town for the first time in 1891. It became craft center and major stock market. Tradesmen from all the country as well as from abroad – from Turkey, Romania, Serbia came to the annual market. After the First World War, many refugees from Tsaribrod settled here. In 1945, the town was renamed to Michailovgrad, and in 1993 took the name Montana.
+
+Bus and railway transport are the two types of transport connecting the town with the rest of the country. There are regular bus lines to Sofia, Lom, Vidin, Belogradchik, Pleven, Vratsa and to the smaller settlements. Montana is transitional railway station on the line Boichinovtsi –Berkovitsa.\n
+    </string>
+
+</resources>
